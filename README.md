@@ -24,7 +24,7 @@ This project is a solution for the Social Proof Section, a challenge on Frontend
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/social-proof-section-html-css-js-IQytZFYOeP)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-proof-section-html-css-lRcRpX82m5)
 - [Live Site URL](https://dz-social-proof-section.netlify.app/)
 
 ### Built With
